@@ -1,3 +1,1 @@
-export default function Index() {
-      return null;
-    }
+export { default } from './app/index';
